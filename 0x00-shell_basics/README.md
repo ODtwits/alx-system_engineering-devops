@@ -1,2 +1,2 @@
 #!/bin/bash
-list the files in the working directory in long format
+lists the current directory contents, including hidden files (starting with .) in long format
