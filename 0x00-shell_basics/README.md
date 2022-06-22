@@ -1,2 +1,2 @@
 #!/bin/bash
-lists the current directory contents, including hidden files (starting with .) in long format
+list the current directory content in long format, with user and group IDs displayed numerically and hidden files (starting with .)
