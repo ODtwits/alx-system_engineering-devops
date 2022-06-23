@@ -1,2 +1,2 @@
 #!/bin/bash
-Creates a symbolic link named __ls__ for /bin/ls
+Creates a symbolic link named ls for /bin/ls
