@@ -1,2 +1,2 @@
 #!/bin/bash
-execute permission to the owner of the file hello
+execute permission to the owner and the group owner, and read permission to other users, to the file hello.
