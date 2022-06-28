@@ -1,2 +1,2 @@
 #!/bin/bash
-displays the content of /etc/passwd and /etc/hosts
+displays the last 10 lines of /etc/passwd
