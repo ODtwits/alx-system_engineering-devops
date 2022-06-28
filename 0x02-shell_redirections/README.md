@@ -1,2 +1,2 @@
 #!/bin/bash
-displays a confused smiley "(Ôo)'
+displays the content of the /etc/passwd file
