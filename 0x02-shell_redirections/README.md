@@ -1,2 +1,2 @@
 #!/bin/bash
-displays a confused smiley "(Ôo)'
+prints “Hello, World”, followed by a new line to the standard output.
